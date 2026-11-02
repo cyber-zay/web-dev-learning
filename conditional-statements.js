@@ -262,6 +262,3 @@ switch (groceryItem) {
         console.log('Invalid item');
         break;
 }
-
-//The switch statement evaluates the expression in parentheses and compares it to the values in each case. If a match is found, the code block for that case is executed. If no match is found, the code block for the default case is executed.
-//The break statement is used to exit the switch statement after a case has been executed. Without the break statement, the code will continue to execute the next case until a break statement is encountered or the switch statement ends.
